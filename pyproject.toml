@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "streamlit-test"
+name = "extracted-data-qc"
 version = "0.1.0"
-description = "A test of basic streamlit app-building"
+description = "QC application for raw structured data extractions"
 authors = ["Jonno <j.holding@yordasgroup.com>"]
 license = "MIT"
 readme = "README.md"
